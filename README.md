@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @charlesdc4
-- 👀 I’m interested in ... Music Production, Music Composition, Sound Design, Gaming, Movies, Astronomy, Physics, Programming, Network Security
-- 🌱 I’m currently learning ... Python to start!
+- 👀 I’m interested in ...  Pentesting, Programming, Offensive Security, Defensive Security, Gaming, Movies, Astronomy, and many more.
+- 🌱 I’m currently learning ... Python, Learning paths via Portswigger, TryHackme, and HackTheBox
 - 💞️ I’m looking to collaborate on ... Nothing specifically just yet since I'm just starting out, but if an opportunity arises I'd gladly take a chance.
-- 📫 How to reach me ... No social media at the moment other than the ones I use specifically for music. For now this would be the best place.
+- 📫 How to reach me ... No social media at the moment.
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I make music! Cinematic, Ambient, EDM, really anything that comes to mind. Film scoring is my passion, but I enjoy anything related to tech, and science.
+- ⚡ Fun fact: ... I make music! Cinematic, Ambient, EDM, really anything that comes to mind.
 
 - Will update as necessary.
 
